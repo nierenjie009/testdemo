@@ -5,6 +5,5 @@ window.onload =function(){
        alert("这是测试代码abcd1223233")
        alert("这是测试代码0025")
        console("这是master分支的代码")
-       console("这是的dev分支的代码")
     })
 }
